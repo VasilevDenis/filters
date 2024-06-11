@@ -1,0 +1,8 @@
+.app {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
